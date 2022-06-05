@@ -93,6 +93,7 @@
 - [RandomPatches](https://modrinth.com/mod/JmtW1Cr5) - *Miscellaneous and configurable patches for the game.*
 
 - [Sodium](https://modrinth.com/mod/AANobbMI) - *Rendering engine and client-side optimizations.*
+
   - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) - *Replaces Sodium's default options screen with a better one.*
 
   - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) - *Adds extra settings to Sodium.*
