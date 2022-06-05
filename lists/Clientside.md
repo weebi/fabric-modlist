@@ -70,6 +70,8 @@
 
 - [BetterBeds](https://modrinth.com/mod/kKwy3HU9) - *Changes the renderer for beds to use a more optimized json model.*
 
+- [CompactChat](https://modrinth.com/mod/w2SFICvx) - *Cleans up your Minecraft chat by removing the duplicates.*
+
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) - *Improves the performance of chunks in the world.*
 
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - *Optimizes block entities and adds customization features.*
