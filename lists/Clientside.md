@@ -1,8 +1,11 @@
 # Clientside mod list
 
-**Most mods require you to install [Fabric API](https://modrinth.com/mod/P7dR8mSH)!**
+> **Note**
+> Most mods require you to install [Fabric API](https://modrinth.com/mod/P7dR8mSH)!
 
 ## Audio
+
+- [Charmonium](https://modrinth.com/mod/bpii4Xsa) - *Adds biome-specific sound effects, underground sound effects much more.*
 
 - [More Music](https://modrinth.com/mod/dGBEUH8l) - *A music mod that makes in-game music play more often (or less often if you're into that).*
 
@@ -43,6 +46,8 @@
 - [Bobby](https://modrinth.com/mod/M08ruV16) - *Allows greater render distances by caching the chunks to player's hard drive.*
 
 - [CIT Resewn](https://modrinth.com/mod/otVJckYQ) - *Implements Custom Item Textures (CIT) for resource packs.*
+
+- [Clear Skies](https://modrinth.com/mod/xNK6Xfrv) - *Removes the banding at the horizon of vanilla Minecraft.*
 
 - [Colormatic](https://modrinth.com/mod/V4IQxkZC) - *Allows resource packs to customize hard coded block and biome colors.*
 
@@ -114,8 +119,16 @@
 
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) - *Adds a mod menu to Fabric where you can configure all of your mods.*
 
-- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) - *Helps with debugging crashes and prevents the entire game from crashing.*
+  - [Mod Manager](https://modrinth.com/mod/6kq7BzRK) - *Allows you to install, update and remove mods from Mod Menu.*
+
+- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) - *Helps with debugging crashes and prevents the entire game from crashing.*'
+
+- [ReplayMod](https://www.replaymod.com) - *Record your Minecraft sessions and replay them afterwards from any perspective.*
 
 - [Screenshot to Clipboard](https://modrinth.com/mod/1K1JRrTg) - *A simple mod that copies the taken screenshot to the clipboard.*
 
+- [Seamless Loading Screen](https://modrinth.com/mod/TyTPFOiF) - *Takes a screenshot of the game when you leave a world or server, and displays it whenever you rejoin it*
+
 - [Spark](https://modrinth.com/mod/l6YH9Als) - *Performance profiler for clients and servers.*
+
+- [Pinglist](https://modrinth.com/mod/GzmTgzUV) - *Replaces the vague connection bar icon with a color coded, numerical value.*
