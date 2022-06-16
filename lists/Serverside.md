@@ -71,7 +71,7 @@
 
 These mods below *will* affect your server's in-game behaviour.
 
-- [Alternate Current](https://modrinth.com/mod/) - *Improves Minecraft's redstone dust implementation. (Might have some effects on borderline redstone builds).*
+- [Alternate Current](https://modrinth.com/mod/alternate-current) - *Improves Minecraft's redstone dust implementation. (Might have some effects on borderline redstone builds).*
 
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) - *Improves the performance of chunks in the world.*
 
