@@ -45,6 +45,8 @@
 
 - [Bobby](https://modrinth.com/mod/M08ruV16) - *Allows greater render distances by caching the chunks to player's hard drive.*
 
+- [Capes](https://modrinth.com/mod/89Wsn8GD) - *Lets you use capes from OptiFine, LabyMod and other cape mods.*
+
 - [CIT Resewn](https://modrinth.com/mod/otVJckYQ) - *Implements Custom Item Textures (CIT) for resource packs.*
 
 - [Clear Skies](https://modrinth.com/mod/xNK6Xfrv) - *Removes the banding at the horizon of vanilla Minecraft.*
@@ -68,6 +70,8 @@
 - [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) - *Implements Better Grass feature from OptiFine but better.*
 
 - [Mini Dynamic Lights](https://modrinth.com/mod/TbZ5JL8U) - *Lighter version of LambDynamicLights mod.*
+
+- [Wavey Capes](https://modrinth.com/mod/kYuIpRLv) - *Make capes look like capes and not a slab.*
 
 ## Optimization
 
