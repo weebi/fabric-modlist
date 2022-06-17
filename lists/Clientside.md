@@ -121,6 +121,8 @@
 
 - [Logical Zoom](https://modrinth.com/mod/8bOImuGU) - *Adds OptiFine-like zoom to the game.*
 
+- [MidnightControls](https://modrinth.com/mod/bXX9h73M) - *Adds better controls, reach-around and controller support.*
+
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) - *Adds a mod menu to Fabric where you can configure all of your mods.*
 
   - [Mod Manager](https://modrinth.com/mod/6kq7BzRK) - *Allows you to install, update and remove mods from Mod Menu.*
