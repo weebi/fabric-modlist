@@ -19,13 +19,21 @@
 
 - [Carpet](https://github.com/gnembon/fabric-carpet) - *Allows you to take full control of technical perpective of the game.*
 
+- [FabricTPA](https://modrinth.com/mod/VWgEMCCl) - *Adds /tpa command to your server.*
+
+- [Quick Player Trade](https://modrinth.com/mod/OcO4rWRt) - *A simple way to give and receive items between players.*
+
 - [SilkSpawners](https://modrinth.com/mod/yD9G9SN0) - *Allows players to collect mob spawners with silk touch.*
+
+- [TaterCart](https://modrinth.com/mod/GFWR9kLQ) - *Adds many different minecarts to Minecraft while being fully serversided.*
 
 - [Unforgiving Void](https://modrinth.com/mod/LYliJ0jT) - *Falling into the void now brings you back to the Nether.*
 
 # Management
 
 - [Chunky](https://modrinth.com/mod/fALzjamp) - *Pre-generates worlds quickly, efficiently and safely.*
+
+- [Hey That's Mine](https://modrinth.com/mod/IEPAK5x6) - *Protects players' containers from other players.*
 
 - [JLine for Dedicated Server](https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server) - *Enables command history, auto completion and syntax highlighting for Fabric servers.*
 
@@ -35,9 +43,19 @@
 
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) - *Helps with debugging crashes by deobfuscating methods.*
 
+- [Semblance](https://modrinth.com/mod/FFiEdqAn) - *Allows to configure your server's brand.*
+
 - [Spark](https://modrinth.com/mod/l6YH9Als) - *Performance profiler for clients and servers.*
 
 - [TabTPS](https://modrinth.com/mod/cUhi3iB2) - *Shows essential info of your server's health like TPS, MSPT and memory usage.*
+
+- [UPNP for dedicated servers](https://modrinth.com/mod/Yq9V2lXq) - *Automatically forwards and closes ports using UPnP protocol.*
+
+# Maps
+
+- [BlueMap](https://modrinth.com/mod/swbUV1cr) - *Generates 3d-maps of your worlds and displays them in browser.*
+
+- [Squaremap](https://github.com/jpenilla/squaremap) - *Generates vanilla-like top down 2D view of your worlds.*
 
 # Moderation
 
