@@ -27,13 +27,17 @@
 
 - [Middleground](https://modrinth.com/mod/hTrO4Z9i) - *Adds a middleground between OptiFine's and Sodium's options screen.*
 
+- [Modsmod](https://modrinth.com/mod/4GhX11Ed) - *Generates and loads empty mods into your instance.*
+
 - [Movement Vision](https://modrinth.com/mod/rxJizAQe) - *Shader mod that lets the player only see motion.*
+
+- [Quickmäth](https://modrinth.com/mod/hRVfXPJj) - *Breaks math methods in Minecraft by replacing them with incorrect alternatives.*
 
 - [Translater](https://modrinth.com/mod/YnU8kpyc) - *Corrupts Minecraft's text by translating it a few times.*
 
 - [UwU >~<](https://modrinth.com/mod/mBQhpWtM) - *UwUifies all the text in Minecraft.*
 
-- [Quickmäth](https://modrinth.com/mod/hRVfXPJj) - *Breaks math methods in Minecraft by replacing them with incorrect alternatives.*
+- [Slyde](https://modrinth.com/mod/diCZrsch) - *Allows setting values for options that weren't intended by Mojang.* 
 
 ## Graphics
 
@@ -83,13 +87,19 @@
 
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) - *Improves the performance of chunks in the world.*
 
+- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) - *Reduces Minecraft's FPS whenever it's in the background.*
+
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - *Optimizes block entities and adds customization features.*
 
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) - *Skips rendering the blocks/entities that aren't visible to the player.*
 
+- [Entity Collision FPS Fix](https://modrinth.com/mod/GiriLmaY) - *Skips entity collision checks on the client as these checks are already handled by the server.*
+
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) - *Optimizes memory usage on clients and servers.*
 
 - [ForgetMeChunk](https://modrinth.com/mod/vRXn3MrA) - *Fixes large lag spikes when crossing chunk borders.*
+
+- [Language Reload](https://modrinth.com/mod/uLbm7CG6) - *Makes language switching instant.*
 
 - [LazyDFU](https://modrinth.com/mod/hvFnDODi) - *Speeds up game launching by making the bootup of DataFixerUpper "lazy".*
 
@@ -119,21 +129,35 @@
 
 - [BetterF3](https://modrinth.com/mod/8shC1gFX) - *Makes the F3 menu extensively customizable.*
 
+- [Blockify](https://modrinth.com/mod/X5aijFqA) - *Allows players to passthrough Spotify information into Minecraft.*
+
+- [Boat Hud](https://modrinth.com/mod/ENNbyqzB) - *Shows useful info for boats such as drift angle and speed.*
+
+- [Clean Logs](https://modrinth.com/mod/OTteoJUk) - *Filters logs based on user-defined options.*
+
+- [Draggable Resource Packs](https://modrinth.com/mod/aLcHfalx) - *Makes resource packs and servers draggable.*
+
+- [Fabrishot](https://modrinth.com/mod/3qsfQtE9) - *Take large screenshots of the game.*
+
+- [Isometric Renders](https://modrinth.com/mod/M0aimenU) - *Make isometric renders of your builds*
+
 - [Logical Zoom](https://modrinth.com/mod/8bOImuGU) - *Adds OptiFine-like zoom to the game.*
 
 - [MidnightControls](https://modrinth.com/mod/bXX9h73M) - *Adds better controls, reach-around and controller support.*
 
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) - *Adds a mod menu to Fabric where you can configure all of your mods.*
 
-  - [Mod Manager](https://modrinth.com/mod/6kq7BzRK) - *Allows you to install, update and remove mods from Mod Menu.*
+  - [Mod Manager](https://modrinth.com/mod/6kq7BzRK) - *Allows players to install, update and remove mods from Mod Menu.*
 
-- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) - *Helps with debugging crashes and prevents the entire game from crashing.*'
+- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) - *Helps with debugging crashes and prevents the entire game from crashing.*
+
+- [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp) - *Allows adding multiple keybinds for controls.*
 
 - [ReplayMod](https://www.replaymod.com) - *Record your Minecraft sessions and replay them afterwards from any perspective.*
 
 - [Screenshot to Clipboard](https://modrinth.com/mod/1K1JRrTg) - *A simple mod that copies the taken screenshot to the clipboard.*
 
-- [Seamless Loading Screen](https://modrinth.com/mod/TyTPFOiF) - *Takes a screenshot of the game when you leave a world or server, and displays it whenever you rejoin it*
+- [Seamless Loading Screen](https://modrinth.com/mod/TyTPFOiF) - *Takes a screenshot of the game when you leave a world or server, and displays it whenever you rejoin it.*
 
 - [Spark](https://modrinth.com/mod/l6YH9Als) - *Performance profiler for clients and servers.*
 
