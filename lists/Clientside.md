@@ -43,7 +43,11 @@
 
 - [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn) - *Replaces the flat second layer of player skin with a 3d modeled version.*
 
+- [Better Barriers](https://modrinth.com/mod/fklStciH) - *Renders barrier blocks like other blocks.*
+
 - [Better Biome Blend](https://modrinth.com/mod/Rs6c7WyL) - *Improves biome color transitions with larger biome blending radius.*
+
+- [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7) - *Assigns custom colored straps to enchantment books.*
 
 - [Blur](https://modrinth.com/mod/NK39zBp2) - *Blurs the backgrounds of GUIs in-game.*
 
@@ -74,6 +78,8 @@
 - [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) - *Implements Better Grass feature from OptiFine but better.*
 
 - [Mini Dynamic Lights](https://modrinth.com/mod/TbZ5JL8U) - *Lighter version of LambDynamicLights mod.*
+
+- [True Darkness](https://modrinth.com/mod/Ja7zPEaN) - *Makes the darkness pitch black.*
 
 - [Wavey Capes](https://modrinth.com/mod/kYuIpRLv) - *Make capes look like capes and not a slab.*
 
@@ -135,7 +141,11 @@
 
 - [Clean Logs](https://modrinth.com/mod/OTteoJUk) - *Filters logs based on user-defined options.*
 
+- [Clear Despawn](https://modrinth.com/mod/yoJJjRRE) - *Makes dropped items flash when they're about to despawn.*
+
 - [Draggable Resource Packs](https://modrinth.com/mod/aLcHfalx) - *Makes resource packs and servers draggable.*
+
+- [Emoji Type](https://modrinth.com/mod/q7vRRpxU) - *Adds a way to easily type emojies in chat.*
 
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9) - *Take large screenshots of the game.*
 
@@ -149,16 +159,22 @@
 
   - [Mod Manager](https://modrinth.com/mod/6kq7BzRK) - *Allows players to install, update and remove mods from Mod Menu.*
 
+- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) - *Strips cryptographic signatures that are attached to every message sent in the chat which can be used to ban you from Minecraft entirely.*
+
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) - *Helps with debugging crashes and prevents the entire game from crashing.*
 
 - [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp) - *Allows adding multiple keybinds for controls.*
 
+- [Pinglist](https://modrinth.com/mod/GzmTgzUV) - *Replaces the vague connection bar icon with a color coded, numerical value.*
+
+- [Preventer](https://modrinth.com/mod/RK0tTWG1) - *Prevents you from doing dumb things by accident.*
+
 - [ReplayMod](https://www.replaymod.com) - *Record your Minecraft sessions and replay them afterwards from any perspective.*
+
+- [Right-Click Harvest](https://modrinth.com/mod/QgwydtQc) - *Allows you to harvest and replant crops simply by right clicking.*
 
 - [Screenshot to Clipboard](https://modrinth.com/mod/1K1JRrTg) - *A simple mod that copies the taken screenshot to the clipboard.*
 
 - [Seamless Loading Screen](https://modrinth.com/mod/TyTPFOiF) - *Takes a screenshot of the game when you leave a world or server, and displays it whenever you rejoin it.*
 
 - [Spark](https://modrinth.com/mod/l6YH9Als) - *Performance profiler for clients and servers.*
-
-- [Pinglist](https://modrinth.com/mod/GzmTgzUV) - *Replaces the vague connection bar icon with a color coded, numerical value.*

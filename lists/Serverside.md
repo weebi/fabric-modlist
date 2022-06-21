@@ -9,7 +9,13 @@
 
 # Chat, playerlist and other cosmetical modifications
 
+- [AfkDisplay](https://modrinth.com/mod/kJwABmWp) - *Shows which players are afk in the player list.*
+
+- [ItemFlexer](https://modrinth.com/mod/pOYa13DM) - *Allows players to flex their items with /flex command.*
+
 - [MiniMOTD](https://modrinth.com/mod/16vhQOQN) - *Enables server owners to make cool looking MOTDs.*
+
+- [Server Chat History](https://modrinth.com/mod/XWWYJbdG) - *Sends server's chat history to players on join.*
 
 - [Styled Nicknames](https://modrinth.com/mod/DOk6Gcdi) - *Allows players to change their server specific nickname.*
 
@@ -21,17 +27,29 @@
 
 - [FabricTPA](https://modrinth.com/mod/VWgEMCCl) - *Adds /tpa command to your server.*
 
+- [I'm Here Get Moving](https://modrinth.com/mod/GSw2U2lp) - *Pauses overworld's daytime ticks when nobody is online.*
+
 - [Quick Player Trade](https://modrinth.com/mod/OcO4rWRt) - *A simple way to give and receive items between players.*
+
+- [Roundaround's Nicer Portals](https://modrinth.com/mod/ZD4RcHBZ) - *Small but useful improvements to portals.*
+
+- [Roundaround's Villager Converting](https://modrinth.com/mod/gtsvJo80) - *Villagers attacked by zombies always get converted instead of dying.*
 
 - [SilkSpawners](https://modrinth.com/mod/yD9G9SN0) - *Allows players to collect mob spawners with silk touch.*
 
 - [TaterCart](https://modrinth.com/mod/GFWR9kLQ) - *Adds many different minecarts to Minecraft while being fully serversided.*
 
+- [Trees Do Not Float](https://modrinth.com/mod/PxIdJdxN) - *Makes the whole tree come down when the last log supporting a tree is broken.*
+
 - [Unforgiving Void](https://modrinth.com/mod/LYliJ0jT) - *Falling into the void now brings you back to the Nether.*
+
+- [Unsaddle](https://modrinth.com/mod/45F9B0j8) - *Allows players to remove saddles from animals without killing them.*
 
 # Management
 
 - [Chunky](https://modrinth.com/mod/fALzjamp) - *Pre-generates worlds quickly, efficiently and safely.*
+
+- [DynRes](https://modrinth.com/mod/v3lfX2LD) - *Host your server's resource pack locally on your server.*
 
 - [Hey That's Mine](https://modrinth.com/mod/IEPAK5x6) - *Protects players' containers from other players.*
 
@@ -62,6 +80,8 @@
 - [AntiXray](https://modrinth.com/mod/sml2FMaA) - *Lightweight anti-xray mod for Fabric.*
 
 - [GolfIV](https://modrinth.com/mod/PfKYAJGk) - *Anti-exploit mod for Fabric.*
+
+- [Illegal Stack Fixer](https://modrinth.com/mod/1P8FCviI) - *Prevents players from creating bigger stacks than allowed.*
 
 - [Ledger](https://modrinth.com/mod/LVN9ygNV) - *Logs almost every action on the server.*
 
