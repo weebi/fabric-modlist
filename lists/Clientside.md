@@ -9,9 +9,13 @@
 
 - [More Music](https://modrinth.com/mod/dGBEUH8l) - *A music mod that makes in-game music play more often (or less often if you're into that).*
 
+- [OstOverhaul](https://modrinth.com/mod/M11EPNE5) - *Adds more place-dependant music to the game.*
+
 - [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) - *Adds new and more dynamic sounds for every block the player walks on.*
 
 - [Resounding](https://modrinth.com/mod/UwbKhrqq) - *An audio mod that brings realistic audio physics into the game.*
+
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) - *Adds realistic sound attenuation, reverberation, and absorption through blocks.*
 
 ## Bug fixes
 
@@ -47,6 +51,8 @@
 
 - [Better Biome Blend](https://modrinth.com/mod/Rs6c7WyL) - *Improves biome color transitions with larger biome blending radius.*
 
+- [BetterBlockOutline](https://modrinth.com/mod/tBrBqOsV) - *Allows ample customisation of the block outline.*
+
 - [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7) - *Assigns custom colored straps to enchantment books.*
 
 - [Blur](https://modrinth.com/mod/NK39zBp2) - *Blurs the backgrounds of GUIs in-game.*
@@ -63,9 +69,13 @@
 
 - [Continuity](https://modrinth.com/mod/1IjD5062) - *Enables resource packs to create connected textures.*
 
+- [Eating Animation](https://modrinth.com/mod/rUgZvGzi) - *Adds eating animation for vanilla items.*
+
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) - *Adds random, emissive and blinking textures for mobs and player skins.*
 
 - [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) - *Adds a neat particle effect to leaf blocks.*
+
+- [Hat List](https://modrinth.com/mod/nHLxbmEC) - *Shows the player skin's hat layer on the player list.*
 
 - [Indium](https://modrinth.com/mod/Orvt0mRa) - *Add-on for Sodium to add support for the Fabric Rendering API.*
 
@@ -78,6 +88,14 @@
 - [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) - *Implements Better Grass feature from OptiFine but better.*
 
 - [Mini Dynamic Lights](https://modrinth.com/mod/TbZ5JL8U) - *Lighter version of LambDynamicLights mod.*
+
+- [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) - *Adds many different third-person animations to Minecraft.*
+
+- [Particle Blocker](https://modrinth.com/mod/aVja52oo) - *Allows blocking specific particles from rendering.*
+
+- [Particle Rain](https://modrinth.com/mod/nrikgvxm) - *Replaces the default rain and snow with particle effects.
+
+- [Rainbowify](https://modrinth.com/mod/m9FFV06N) - *Adds customisable rainbow background to Minecraft GUIs*
 
 - [True Darkness](https://modrinth.com/mod/Ja7zPEaN) - *Makes the darkness pitch black.*
 
@@ -129,6 +147,8 @@
 
 - [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR) - *Adds a hotkey to resend blocks around you. This mod is useful if you experience ghost blocks regularly.*
 
+- [Armor Swap](https://modrinth.com/mod/UqHiQUjv) - *Switch your armor quickly from inventory.*
+
 - [Auth Me](https://modrinth.com/mod/yjglrBjz) - *Adds a way to login into a different account inside the game.*
 
 - [BadStdOut](https://modrinth.com/mod/9Y8sMRVG) - *Marks which mod is outputting entries to the log file.*
@@ -143,11 +163,17 @@
 
 - [Clear Despawn](https://modrinth.com/mod/yoJJjRRE) - *Makes dropped items flash when they're about to despawn.*
 
+- [Compass Ribbon](https://modrinth.com/mod/3Q3RehtT) - *Adds compass ribbon to your HUD.*
+
 - [Draggable Resource Packs](https://modrinth.com/mod/aLcHfalx) - *Makes resource packs and servers draggable.*
 
 - [Emoji Type](https://modrinth.com/mod/q7vRRpxU) - *Adds a way to easily type emojies in chat.*
 
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9) - *Take large screenshots of the game.*
+
+- [I Know What I'm Doing](https://modrinth.com/mod/S5ivha5X) - *Disables in-game tutorial hints for new game instances.*
+
+- [Inventory Tabs](https://modrinth.com/mod/F1AqcMCK) - *Adds tabs to access nearby blocks without leaving your inventory.*
 
 - [Isometric Renders](https://modrinth.com/mod/M0aimenU) - *Make isometric renders of your builds*
 
@@ -165,6 +191,10 @@
 
 - [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp) - *Allows adding multiple keybinds for controls.*
 
+- [NoRefreshScroll](https://modrinth.com/mod/bWkJ7ejc) - *Stops server list from scrolling to the top when refreshing it.*
+
+- [Perspektive](https://modrinth.com/mod/santxgdT) - *Allows player to look around without moving their player head.*
+
 - [Pinglist](https://modrinth.com/mod/GzmTgzUV) - *Replaces the vague connection bar icon with a color coded, numerical value.*
 
 - [Preventer](https://modrinth.com/mod/RK0tTWG1) - *Prevents you from doing dumb things by accident.*
@@ -173,8 +203,16 @@
 
 - [Right-Click Harvest](https://modrinth.com/mod/QgwydtQc) - *Allows you to harvest and replant crops simply by right clicking.*
 
+- [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) - *Adds an easy way to browse recipes for different items and blocks.*
+
 - [Screenshot to Clipboard](https://modrinth.com/mod/1K1JRrTg) - *A simple mod that copies the taken screenshot to the clipboard.*
 
 - [Seamless Loading Screen](https://modrinth.com/mod/TyTPFOiF) - *Takes a screenshot of the game when you leave a world or server, and displays it whenever you rejoin it.*
 
+- [Shifty Hotbar](https://modrinth.com/mod/Vtzg2pos) - *Adds hotbar shifting ability inspired by Stardew Valley.*
+
+- [Show Me Your Skin!](https://modrinth.com/mod/bD7YqcA3) - *Allows customizing how armor renders on player.*
+
 - [Spark](https://modrinth.com/mod/l6YH9Als) - *Performance profiler for clients and servers.*
+
+- [Tooltip Tweaks](https://modrinth.com/mod/evJ7VC0w) - *Adds new tooltips and improves the existing ones while allowing to disable the ones you dislike.*
