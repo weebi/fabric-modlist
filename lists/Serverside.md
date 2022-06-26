@@ -7,6 +7,8 @@
 
 - [Debugify](https://modrinth.com/mod/QwxR6Gcd) - *Bugfixes for things on the Mojang bug tracker.*
 
+- [Head Name Fix](https://modrinth.com/mod/rbU0dAND) - *Fixes the bug where mob heads won't keep their custom names when placed.*
+
 # Chat, playerlist and other cosmetical modifications
 
 - [AfkDisplay](https://modrinth.com/mod/kJwABmWp) - *Shows which players are afk in the player list.*
@@ -21,13 +23,29 @@
 
 - [Styled Player List](https://modrinth.com/mod/DQIfKUHf) - *Allows server owners to style player list as they like.*
 
-# Game mechanics tweaks 
+# Cursed
+
+- [BedGoBoom](https://modrinth.com/mod/sMTSycXA) - *Bed go boom in overworld too.*
+
+# Game mechanics tweaks
+
+- [Axes Are Weapons](https://modrinth.com/mod/1jvt7RTc) - *Disables the increased durability loss in combat and enables looting enchantment for axes.*
 
 - [Carpet](https://github.com/gnembon/fabric-carpet) - *Allows you to take full control of technical perpective of the game.*
 
 - [FabricTPA](https://modrinth.com/mod/VWgEMCCl) - *Adds /tpa command to your server.*
 
+- [FabricHomes](https://modrinth.com/mod/VfWCmAVG) - *Adds /home command to your server.*
+
+- [FabSit](https://modrinth.com/mod/du5JuikL) - *Adds sitting, laying and spinning.*
+
+- [Homabric](https://modrinth.com/mod/yfRb7tkQ) - *Powerful home management mod for fabric.*
+
 - [I'm Here Get Moving](https://modrinth.com/mod/GSw2U2lp) - *Pauses overworld's daytime ticks when nobody is online.*
+
+- [JumpVader](https://modrinth.com/mod/hcqCqeMe) - *Adds "Jump Vader" blocks similar to the Quark mod's elevators.*
+
+- [Perfect Accurancy](https://modrinth.com/mod/ochFsQSn) - *Removes inaccurancy from projectiles shot/thrown by players.*
 
 - [Quick Player Trade](https://modrinth.com/mod/OcO4rWRt) - *A simple way to give and receive items between players.*
 
@@ -47,9 +65,9 @@
 
 # Management
 
-- [Chunky](https://modrinth.com/mod/fALzjamp) - *Pre-generates worlds quickly, efficiently and safely.*
-
 - [DynRes](https://modrinth.com/mod/v3lfX2LD) - *Host your server's resource pack locally on your server.*
+
+- [Get Off My Lawn ReServed](https://modrinth.com/mod/j5niDupl) - *Adds player claims for survival/freebuild servers.*
 
 - [Hey That's Mine](https://modrinth.com/mod/IEPAK5x6) - *Protects players' containers from other players.*
 
@@ -71,13 +89,19 @@
 
 # Maps
 
+- [Better Nether Map](https://modrinth.com/mod/fdtm99de) - *Improves how maps works in the Nether.*
+
 - [BlueMap](https://modrinth.com/mod/swbUV1cr) - *Generates 3d-maps of your worlds and displays them in browser.*
+
+- [Crowmap](https://modrinth.com/mod/EAe3MQt5) - *Allows maps to update when they're anywhere in your inventory.*
 
 - [Squaremap](https://github.com/jpenilla/squaremap) - *Generates vanilla-like top down 2D view of your worlds.*
 
 # Moderation
 
 - [AntiXray](https://modrinth.com/mod/sml2FMaA) - *Lightweight anti-xray mod for Fabric.*
+
+- [Command Spy](https://modrinth.com/mod/4XnUc5Gr) - *Logs commands executed by players, commands blocks and signs.*
 
 - [GolfIV](https://modrinth.com/mod/PfKYAJGk) - *Anti-exploit mod for Fabric.*
 
@@ -114,3 +138,17 @@ These mods below *will* affect your server's in-game behaviour.
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) - *Improves the performance of chunks in the world.*
 
 - [ServerCore](https://modrinth.com/mod/4WWQxlQP) - *Takes some Papermc's patches to optimize server further. (Breaks many vanilla mechanics.)*
+
+# World generation
+
+- [Chunky](https://modrinth.com/mod/fALzjamp) - *Pre-generates worlds quickly, efficiently and safely.*
+
+- [Mo' Structures](https://modrinth.com/mod/PTGd6dWp) - *Adds various different structures to enrich your world.*
+
+- [Profundis](https://modrinth.com/mod/aucz7XCt) - *Adds three new  vanilla-styled underground biomes.*
+
+- [Repurposed Structures](https://modrinth.com/mod/muf0XoRe) - *Takes existing vanilla structures and creates new varions or modifications to them.*
+
+- [Simply Houses](https://modrinth.com/mod/cwKtPx6L) - *Adds simple house-like structures which are meant to serve as early-game accomodation.*
+
+- [Towns and Tower](https://modrinth.com/mod/DjLobEOy) - *Adds biome-specific pillager outposts and much more.*
