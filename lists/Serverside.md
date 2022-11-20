@@ -11,13 +11,11 @@
 
 # Chat, playerlist and other cosmetical modifications
 
-- [AfkDisplay](https://modrinth.com/mod/kJwABmWp) - *Shows which players are afk in the player list.*
-
 - [ItemFlexer](https://modrinth.com/mod/pOYa13DM) - *Allows players to flex their items with /flex command.*
 
-- [MiniMOTD](https://modrinth.com/mod/16vhQOQN) - *Enables server owners to make cool looking MOTDs.*
+- [MiniMOTD](https://modrinth.com/mod/16vhQOQN) - *Make cool looking MOTDs with support for RGB colors.*
 
-- [Server Chat History](https://modrinth.com/mod/XWWYJbdG) - *Sends server's chat history to players on join.*
+- [Pingspam](https://modrinth.com/mod/wpctvPCF) - *Ping/mention anyone in the chat.*
 
 - [Styled Nicknames](https://modrinth.com/mod/DOk6Gcdi) - *Allows players to change their server specific nickname.*
 
@@ -25,7 +23,11 @@
 
 # Cursed
 
-- [BedGoBoom](https://modrinth.com/mod/sMTSycXA) - *Bed go boom in overworld too.*
+- [Hall Monitor](https://modrinth.com/mod/WekS3co3) - *Kicks players if they attempt to sprint in survival/adventure mode.*
+
+- [Packet Ignore](https://modrinth.com/mod/BD6XSj38) - *Makes the server ignore 50% of the packets received.*
+
+- [YesCheat](https://modrinth.com/mod/wKQwxQwX) - *Provides hacky overwrites for "anticheat" methods in minecraft.*
 
 # Game mechanics tweaks
 
@@ -33,9 +35,7 @@
 
 - [Carpet](https://github.com/gnembon/fabric-carpet) - *Allows you to take full control of technical perpective of the game.*
 
-- [FabricTPA](https://modrinth.com/mod/VWgEMCCl) - *Adds /tpa command to your server.*
-
-- [FabricHomes](https://modrinth.com/mod/VfWCmAVG) - *Adds /home command to your server.*
+- [Combatlog](https://modrinth.com/mod/nNnLt4Jb) - *Prevents people from combat logging on server by killing them if they leave during combat.*
 
 - [FabSit](https://modrinth.com/mod/du5JuikL) - *Adds sitting, laying and spinning.*
 
@@ -45,9 +45,9 @@
 
 - [JumpVader](https://modrinth.com/mod/hcqCqeMe) - *Adds "Jump Vader" blocks similar to the Quark mod's elevators.*
 
-- [Perfect Accurancy](https://modrinth.com/mod/ochFsQSn) - *Removes inaccurancy from projectiles shot/thrown by players.*
+- [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) - *Makes leaves decay faster after cutting down the logs on a tree.*
 
-- [Quick Player Trade](https://modrinth.com/mod/OcO4rWRt) - *A simple way to give and receive items between players.*
+- [Perfect Accurancy](https://modrinth.com/mod/ochFsQSn) - *Removes inaccurancy from projectiles shot/thrown by players.*
 
 - [Roundaround's Nicer Portals](https://modrinth.com/mod/ZD4RcHBZ) - *Small but useful improvements to portals.*
 
@@ -55,7 +55,7 @@
 
 - [SilkSpawners](https://modrinth.com/mod/yD9G9SN0) - *Allows players to collect mob spawners with silk touch.*
 
-- [TaterCart](https://modrinth.com/mod/GFWR9kLQ) - *Adds many different minecarts to Minecraft while being fully serversided.*
+- [TaterCart](https://modrinth.com/mod/GFWR9kLQ) - *Adds many different kinds of minecarts to Minecraft while being fully serversided.*
 
 - [Trees Do Not Float](https://modrinth.com/mod/PxIdJdxN) - *Makes the whole tree come down when the last log supporting a tree is broken.*
 
@@ -75,17 +75,21 @@
 
 - [Luckperms](https://modrinth.com/mod/Vebnzrzj) - *Permission mod to control what commands and features players can use.*
 
-- [Mods Command](https://modrinth.com/mod/PExmWQV8) - *Adds a command to list all of the server's mods.*
+- [Maintenance Mode](https://modrinth.com/mod/QOkEkSap) - *Perform config changes and test new mods in peace.*
+
+- [Mod Viewer](https://modrinth.com/mod/wGOr2JgV) - *Server-side UI for viewing what mods are installed on the server.*
 
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) - *Helps with debugging crashes by deobfuscating methods.*
 
-- [Semblance](https://modrinth.com/mod/FFiEdqAn) - *Allows to configure your server's brand.*
+- [Open Parties and Claims](https://modrinth.com/mod/gF3BGWvG) - *Adds player claims and player parties while intergrating to Xaero's Minimap.*
+
+- [Semblance](https://modrinth.com/mod/FFiEdqAn) - *Allows you to change your server's brand.*
 
 - [Spark](https://modrinth.com/mod/l6YH9Als) - *Performance profiler for clients and servers.*
 
 - [TabTPS](https://modrinth.com/mod/cUhi3iB2) - *Shows essential info of your server's health like TPS, MSPT and memory usage.*
 
-- [UPNP for dedicated servers](https://modrinth.com/mod/Yq9V2lXq) - *Automatically forwards and closes ports using UPnP protocol.*
+- [Vanilla Permissions](https://modrinth.com/mod/fdZkP5Bb) - *Adds permission checks into vanilla.*
 
 # Maps
 
@@ -109,6 +113,8 @@
 
 - [Ledger](https://modrinth.com/mod/LVN9ygNV) - *Logs almost every action on the server.*
 
+- [Rules](https://modrinth.com/mod/4a1Rhkhp) - *Highly configurable server-side /rules mod.*
+
 # Performance
 
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) - *Optimizes memory usage on clients and servers.*
@@ -131,7 +137,7 @@
 
 ## Behaviour affecting performance mods
 
-These mods below *will* affect your server's in-game behaviour.
+This section's mods *will* affect the server's in-game behaviour.
 
 - [Alternate Current](https://modrinth.com/mod/r0v8vy1s) - *Improves Minecraft's redstone dust implementation. (Might have some effects on borderline redstone builds).*
 
@@ -143,12 +149,8 @@ These mods below *will* affect your server's in-game behaviour.
 
 - [Chunky](https://modrinth.com/mod/fALzjamp) - *Pre-generates worlds quickly, efficiently and safely.*
 
-- [Mo' Structures](https://modrinth.com/mod/PTGd6dWp) - *Adds various different structures to enrich your world.*
+- [Profundis](https://modrinth.com/mod/aucz7XCt) - *World generation mod which adds three new underground biomes.*
 
-- [Profundis](https://modrinth.com/mod/aucz7XCt) - *Adds three new  vanilla-styled underground biomes.*
+- [Tectonic](https://modrinth.com/mod/lWDHr9jE) - *Significantly alters overworld generation by introducing +20 new biomes and new terrain features.*
 
-- [Repurposed Structures](https://modrinth.com/mod/muf0XoRe) - *Takes existing vanilla structures and creates new varions or modifications to them.*
-
-- [Simply Houses](https://modrinth.com/mod/cwKtPx6L) - *Adds simple house-like structures which are meant to serve as early-game accomodation.*
-
-- [Towns and Tower](https://modrinth.com/mod/DjLobEOy) - *Adds biome-specific pillager outposts and much more.*
+- [Towns and Towers](https://modrinth.com/mod/DjLobEOy) - *Expands 1.14 update by adding new villages and pillager outposts.*
