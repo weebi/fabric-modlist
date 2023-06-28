@@ -63,7 +63,7 @@
 
 - [CIT Resewn](https://modrinth.com/mod/otVJckYQ) - *Implements Custom Item Textures (CIT) for resource packs.*
 
-- [Clear Skies](https://modrinth.com/mod/xNK6Xfrv) - *Removes the banding at the horizon of vanilla Minecraft.*
+- [Clear Skies](https://modrinth.com/mod/xNK6XfRv) - *Removes the banding at the horizon of vanilla Minecraft.*
 
 - [Colormatic](https://modrinth.com/mod/V4IQxkZC) - *Allows resource packs to customize hard coded block and biome colors.*
 
