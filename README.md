@@ -1,5 +1,8 @@
 # Fabric modlists
 
+> [!IMPORTANT]
+> Modlists are very outdated as of today (November 25th, 2023). They'll be updated whenever we have time to do so.
+
 *"Weebi's good enough lists for mods."* - eemu
 
 This repository is intended to be a collection of Fabric mod lists to improve the gameplay experience on both servers and clients.
